@@ -1,0 +1,11 @@
+.search-input {
+  width: 400px;
+
+  flex-grow: 1;
+  margin-right: 3px;
+  margin-bottom: 10px;
+}
+.search-panel {
+  display: flex;
+  width: 80%;
+}
